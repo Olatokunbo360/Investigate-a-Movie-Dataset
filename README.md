@@ -1,0 +1,1 @@
+This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. The aim of this exercise is to analyse the data and to find answers to some questions that can give us insight into the data.
